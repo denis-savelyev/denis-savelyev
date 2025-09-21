@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hello, I'm Denis
 
-<!--
-**denis-savelyev/denis-savelyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  About Me
+-  I’m a Computer Science Student at UNC Charlotte
+-  Currently learning C and Python
+-  Interested in [AI, Software, Data Science]
 
-Here are some ideas to get you started:
+## 🛠 Skillset
+- Languages: [Python, C, Java, C#, Javascript, HTML, CSS etc.]
+- Other: [Git, SQL]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Connect with Me
+- [LinkedIn](https://linkedin.com/in/denis-savelyev)    
+- [Email](mailto:denis.savelyev01@gmail.com)  
