@@ -8,11 +8,14 @@
 
 ## Skillset
 - Languages: Python, C, Java, C#, Javascript,
-[![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)]
-[![C](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg)]
-[![Java](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg)
-[![C#](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg)]
-[![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)]
+
+<div style="display: flex; gap: 2px; align-items: center;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="64px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="64px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="64px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="64px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="64px" />
+<div>
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/denis-savelyev)    
