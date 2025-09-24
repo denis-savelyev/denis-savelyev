@@ -3,7 +3,7 @@
 ##  About Me
 -  I’m a Computer Science Student at UNC Charlotte
 -  Currently enjoying C and Python
--  Interested in AI, Software, Data Science, Design, UX
+-  Interested in AI and Software
 -  Always learning about something even if it's not computer science
 
 ## Skillset
